@@ -4,7 +4,7 @@
   "description": "implementing jenkins setup",
   "main": "index.html",
   "scripts": {
-    "test": " build: \"if [ ! -d new ]; then mkdir new; fi && cp -r figma_task2/* new/\""
+     "build": "if [ ! -d new ]; then mkdir new; fi && cp -r figma_task2/* new/"
   },
   "repository": {
     "type": "git",
