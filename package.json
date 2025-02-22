@@ -1,0 +1,22 @@
+{
+  "name": "multi",
+  "version": "1.0.0",
+  "description": "implementing jenkins setup",
+  "main": "index.html",
+  "scripts": {
+    "test": " build: \"if [ ! -d new ]; then mkdir new; fi && cp -r figma_task2/* new/\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VP2004x/new.git"
+  },
+  "keywords": [
+    "jenkins"
+  ],
+  "author": "prashanth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VP2004x/new/issues"
+  },
+  "homepage": "https://github.com/VP2004x/new#readme"
+}
